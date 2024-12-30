@@ -1,3 +1,6 @@
+/*Developed a fraud detection model to identify fraudulent credit card transactions. Used techniques like anomaly detection or supervised
+learning with imbalanced data. */
+
 {
   "nbformat": 4,
   "nbformat_minor": 0,
